@@ -1,0 +1,2 @@
+# xeberler
+table list lahiyesi
